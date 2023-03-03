@@ -48,6 +48,8 @@ terraform show
 
 ### output terraform 
 
+terraform output
+
 terraform output terraform-first-repo-url
 
 ### terraform console
@@ -57,3 +59,7 @@ terraform console
 ### format terraform code
 
 terraform fmt
+
+### graph
+
+terraform graph
